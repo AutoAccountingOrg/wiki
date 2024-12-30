@@ -1,27 +1,10 @@
-# 自动记账
+<p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
 
-The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
 
-## Install
+<h2 align="center">vuepress-theme-vdoing</h2>
 
-```sh
-pnpm i
-```
+[在线文档(国内源)](https://doc.xugaoyi.com/)
 
-## Usage
+[主题仓库](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
-```sh
-# start dev server
-pnpm run docs:dev
-# build for production
-pnpm run docs:build
-# preview production build in local
-pnpm run docs:preview
-# update vuepress and theme
-pnpm run vp-update
-```
-
-## Documents
-
-- [vuepress](https://vuepress.vuejs.org/)
-- [vuepress-theme-plume](https://theme-plume.vuejs.press/)
+[本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing-doc)
