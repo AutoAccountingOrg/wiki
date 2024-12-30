@@ -4,36 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 修改并完善初步使用方案">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/80.弹窗设置.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/10.更新和备份.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/30.调试和日志.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/40.卸载自动记账.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/10.AI辅助.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/20.自动资产映射.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/30.自动生成分类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/00.常规问题自查.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/03.钱迹中找不到资产.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/04.所有账单分类都是其他.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/05.账单中有数据但是无法弹窗.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/06.某个消费场景不识别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/07.有规则但是不识别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/08.总是出现重复账单.md" afterDir="false" />
+    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img22.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/01.适用环境.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/10.准备工作/01.适用环境.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/02.记账软件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/10.准备工作/02.记账软件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/03.激活自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/10.准备工作/03.激活自动记账.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/10.同步数据.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/10.同步数据.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/20.资产管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/20.资产管理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/21.默认账本.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/21.默认账本.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/30.分类映射.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/30.分类映射.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/40.自定义分类规则.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/40.自定义分类规则.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/50.自定义识别规则.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/50.自定义识别规则.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/60.监听其他应用的数据.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/60.监听其他应用的数据.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/70.修改数据过滤条件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/70.修改数据过滤条件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/04.常见问题/01.无法连接到自动记账服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/01.无法连接到自动记账服务.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/04.常见问题/02.缺少记账软件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/02.缺少记账软件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/80.弹窗设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/80.弹窗设置.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +156,7 @@
       <workItem from="1734951954790" duration="218000" />
       <workItem from="1735138004001" duration="1996000" />
       <workItem from="1735264962478" duration="532000" />
-      <workItem from="1735479755160" duration="18850000" />
+      <workItem from="1735479755160" duration="19186000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: init">
       <option name="closed" value="true" />
@@ -264,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735553448073</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。">
+      <option name="closed" value="true" />
+      <created>1735557253441</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735557253441</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +264,8 @@
     <MESSAGE value=":memo: (docs): 修正监听其他应用数据文档中的图片格式" />
     <MESSAGE value=":fire: (docs): 移除历史背景和赞助说明中的冗余内容" />
     <MESSAGE value=":memo: (docs): 修改并完善初步使用方案" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 修改并完善初步使用方案" />
+    <MESSAGE value=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
