@@ -4,69 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":wrench: (docs): 更新文档&#10;&#10;将 `npm` 命令替换为 `pnpm` 命令。">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config/baiduCode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config/htmlModules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/enhanceApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/plugins/love-me/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/plugins/love-me/love-me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/bg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/markmap/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/01.适用环境.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/02.记账软件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/03.激活自动记账.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/01.同步数据.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/02.资产管理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/03.分类映射.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/04.常见问题/01.无法连接到自动记账服务.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/04.常见问题/02.缺少记账软件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/01.原理/01.工作原理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/01.原理/02.适配准备.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/01.自动记账状态.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03.下载/01.下载.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/06.赞助/01.赞助.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/check.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/editFrontmatter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/modules/fn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/modules/readFileList.js" afterDir="false" />
+    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: init">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/04.自定义分类规则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/05.自定义识别规则.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.zh-CN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/client.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/navbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/notes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/plume.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/plume.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/theme/components/Custom.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/theme/shim.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/theme/styles/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/demo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/demo/bar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/demo/foo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/preview/custom-component.example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/preview/markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +47,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/ankio/Documents/SourceCode/HTML/Auto/docs/.vuepress/public/images",
     "node.js.detected.package.eslint": "true",
@@ -108,6 +62,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
     "npm.dev.executor": "Run",
     "npm.docs:dev-clean.executor": "Run",
     "npm.docs:dev.executor": "Run",
@@ -130,7 +85,17 @@
       <recent name="$PROJECT_DIR$/docs/01.用户指南/01.准备工作" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -163,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:dev-clean" />
@@ -197,7 +163,7 @@
       <workItem from="1734951954790" duration="218000" />
       <workItem from="1735138004001" duration="1996000" />
       <workItem from="1735264962478" duration="532000" />
-      <workItem from="1735479755160" duration="7160000" />
+      <workItem from="1735479755160" duration="12596000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: init">
       <option name="closed" value="true" />
@@ -215,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725945586499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=":memo: init">
+      <option name="closed" value="true" />
+      <created>1735526862990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735526862990</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":memo: init">
+      <option name="closed" value="true" />
+      <created>1735526872671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735526872671</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +206,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":tada: init" />
     <MESSAGE value=":wrench: (docs): 更新文档&#10;&#10;将 `npm` 命令替换为 `pnpm` 命令。" />
-    <option name="LAST_COMMIT_MESSAGE" value=":wrench: (docs): 更新文档&#10;&#10;将 `npm` 命令替换为 `pnpm` 命令。" />
+    <MESSAGE value=":memo: init" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: init" />
   </component>
 </project>
