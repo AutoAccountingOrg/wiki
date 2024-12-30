@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 新增自定义分类规则和识别规则文档&#10;&#10;新增了 `04.自定义分类规则.md` 和 `05.自定义识别规则.md` 文档，详细介绍了如何自定义分类和识别规则，并添加了相关图片资源。同时更新了 `.idea/git_toolbox_prj.xml` 配置文件。">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/06.监听其他应用的数据.md" afterDir="false" />
+    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":fire: (docs): 移除历史背景和赞助说明中的冗余内容">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/10.同步数据.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/20.资产管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/21.默认账本.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/40.自定义分类规则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/50.自定义识别规则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/60.监听其他应用的数据.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/70.修改数据过滤条件.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/01.适用环境.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/01.适用环境.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/02.记账软件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/02.记账软件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/03.激活自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/01.准备工作/03.激活自动记账.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/01.同步数据.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/02.资产管理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/03.分类映射.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/30.分类映射.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/04.自定义分类规则.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/05.自定义识别规则.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/02.进阶功能/06.监听其他应用的数据.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/06.赞助/01.赞助.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/06.赞助/01.赞助.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +174,7 @@
       <workItem from="1734951954790" duration="218000" />
       <workItem from="1735138004001" duration="1996000" />
       <workItem from="1735264962478" duration="532000" />
-      <workItem from="1735479755160" duration="13513000" />
+      <workItem from="1735479755160" duration="15861000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: init">
       <option name="closed" value="true" />
@@ -207,18 +224,48 @@
       <option name="project" value="LOCAL" />
       <updated>1735541536123</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=":memo: (docs): 新增监听其他应用的数据文档&#10;&#10;新增了 `06.监听其他应用的数据.md` 文档，详细介绍了如何通过监听其他应用通知的方式获取账单信息，并添加了相关图片资源。同时更新了 `.idea/workspace.xml` 配置文件。">
+      <option name="closed" value="true" />
+      <created>1735542516088</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735542516088</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":memo: (docs): 修正监听其他应用数据文档中的图片格式">
+      <option name="closed" value="true" />
+      <created>1735543159058</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735543159058</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":fire: (docs): 移除历史背景和赞助说明中的冗余内容">
+      <option name="closed" value="true" />
+      <created>1735543313104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735543313104</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value=":tada: init" />
     <MESSAGE value=":wrench: (docs): 更新文档&#10;&#10;将 `npm` 命令替换为 `pnpm` 命令。" />
     <MESSAGE value=":memo: init" />
     <MESSAGE value=":recycle: (ui): 调整导航栏菜单项顺序&#10;&#10;将“资源”链接移至“下载”链接之后，优化导航栏布局。" />
     <MESSAGE value=":memo: (docs): 新增自定义分类规则和识别规则文档&#10;&#10;新增了 `04.自定义分类规则.md` 和 `05.自定义识别规则.md` 文档，详细介绍了如何自定义分类和识别规则，并添加了相关图片资源。同时更新了 `.idea/git_toolbox_prj.xml` 配置文件。" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 新增自定义分类规则和识别规则文档&#10;&#10;新增了 `04.自定义分类规则.md` 和 `05.自定义识别规则.md` 文档，详细介绍了如何自定义分类和识别规则，并添加了相关图片资源。同时更新了 `.idea/git_toolbox_prj.xml` 配置文件。" />
+    <MESSAGE value=":memo: (docs): 新增监听其他应用的数据文档&#10;&#10;新增了 `06.监听其他应用的数据.md` 文档，详细介绍了如何通过监听其他应用通知的方式获取账单信息，并添加了相关图片资源。同时更新了 `.idea/workspace.xml` 配置文件。" />
+    <MESSAGE value=":memo: (docs): 修正监听其他应用数据文档中的图片格式" />
+    <MESSAGE value=":fire: (docs): 移除历史背景和赞助说明中的冗余内容" />
+    <option name="LAST_COMMIT_MESSAGE" value=":fire: (docs): 移除历史背景和赞助说明中的冗余内容" />
+    <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
