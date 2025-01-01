@@ -4,10 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img22.jpg" afterDir="false" />
+    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 新增全自动记账说明并更新弹窗设置文档&#10;&#10;在“弹窗设置.md”文档中新增了全自动记账的相关说明，包括新手建议和配置调整步骤。同时添加了新的图片资源以辅助说明。">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/09.相同金额被合并为重复账单.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/10.自动记账中的有分类但是同步到钱迹为其他.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/02.同步账本给自动记账.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/03.同步分类给自动记账.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/04.同步资产给自动记账.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/05.同步待报销账单给自动记账.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/06.从自动记账提取需要同步的账单.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/07.自动记账设置.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/80.弹窗设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/20.初识自动记账/80.弹窗设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/10.更新和备份.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/10.更新和备份.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/30.调试和日志.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/30.调试和日志.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/40.卸载自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/21.进阶功能/40.卸载自动记账.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/10.AI辅助.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/10.AI辅助.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/20.自动资产映射.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/30.自动生成分类.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/30.实验性功能/30.自动生成分类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/00.常规问题自查.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/00.常规问题自查.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/01.无法连接到自动记账服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/01.无法连接到自动记账服务.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/03.钱迹中找不到资产.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/03.钱迹中找不到资产.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/04.所有账单分类都是其他.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/04.所有账单分类都是其他.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/05.账单中有数据但是无法弹窗.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/05.有账单但是无法弹窗.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/06.某个消费场景不识别.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/06.某个消费场景不识别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/07.有规则但是不识别.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/07.有规则但是不识别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/08.总是出现重复账单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/40.常见问题/08.总是出现重复账单.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/01.自动记账状态.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/01.自动记账状态.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,31 +76,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ankio/Documents/SourceCode/HTML/Auto/docs/.vuepress/public/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.build.executor": "Run",
-    "npm.dev.executor": "Run",
-    "npm.docs:dev-clean.executor": "Run",
-    "npm.docs:dev.executor": "Run",
-    "ts.external.directory.path": "/Users/ankio/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ankio/Documents/SourceCode/HTML/Auto/docs/.vuepress/public/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.docs:dev-clean.executor&quot;: &quot;Run&quot;,
+    &quot;npm.docs:dev.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/ankio/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/.vuepress/public/images" />
@@ -78,7 +116,7 @@
       <recent name="$PROJECT_DIR$/docs/01.用户指南/01.准备工作" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -121,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:dev-clean" />
       </list>
@@ -156,7 +194,8 @@
       <workItem from="1734951954790" duration="218000" />
       <workItem from="1735138004001" duration="1996000" />
       <workItem from="1735264962478" duration="532000" />
-      <workItem from="1735479755160" duration="19186000" />
+      <workItem from="1735479755160" duration="20806000" />
+      <workItem from="1735563118747" duration="11469000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: init">
       <option name="closed" value="true" />
@@ -246,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735557253441</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=":memo: (docs): 新增全自动记账说明并更新弹窗设置文档&#10;&#10;在“弹窗设置.md”文档中新增了全自动记账的相关说明，包括新手建议和配置调整步骤。同时添加了新的图片资源以辅助说明。">
+      <option name="closed" value="true" />
+      <created>1735557603019</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735557603019</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +312,8 @@
     <MESSAGE value=":fire: (docs): 移除历史背景和赞助说明中的冗余内容" />
     <MESSAGE value=":memo: (docs): 修改并完善初步使用方案" />
     <MESSAGE value=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。" />
+    <MESSAGE value=":memo: (docs): 新增全自动记账说明并更新弹窗设置文档&#10;&#10;在“弹窗设置.md”文档中新增了全自动记账的相关说明，包括新手建议和配置调整步骤。同时添加了新的图片资源以辅助说明。" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 新增全自动记账说明并更新弹窗设置文档&#10;&#10;在“弹窗设置.md”文档中新增了全自动记账的相关说明，包括新手建议和配置调整步骤。同时添加了新的图片资源以辅助说明。" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
