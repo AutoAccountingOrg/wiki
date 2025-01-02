@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 新增接口文档和常见问题解答&#10;&#10;新增了多个接口文档，包括同步账本、同步分类、同步资产等接口说明。同时完善了常见问题解答，新增了关于重复账单、分类同步等问题的解决方案。添加了相关图片资源以辅助说明。">
-      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/07.设置自动记账账单状态.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/08.自动记账设置.md" afterDir="false" />
+    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 为多个文档添加 `article: false` 配置&#10;&#10;在多个文档中添加了 `article: false` 配置，以优化文档的显示效果和结构。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/01.原理/02.适配准备.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/01.原理/02.适配准备.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/01.自动记账状态.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/01.自动记账状态.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/02.同步账本给自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/02.同步账本给自动记账.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/03.同步分类给自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/03.同步分类给自动记账.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/04.同步资产给自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/04.同步资产给自动记账.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/05.同步待报销账单给自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/05.同步待报销账单给自动记账.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/06.从自动记账提取需要同步的账单.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.适配指南/02.接口/06.从自动记账提取需要同步的账单.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02.适配指南/02.接口/07.自动记账设置.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +155,7 @@
       <workItem from="1735138004001" duration="1996000" />
       <workItem from="1735264962478" duration="532000" />
       <workItem from="1735479755160" duration="20806000" />
-      <workItem from="1735563118747" duration="20311000" />
+      <workItem from="1735563118747" duration="21303000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: init">
       <option name="closed" value="true" />
@@ -271,7 +261,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735741458261</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=":memo: (docs): 更新接口文档和适配指南&#10;&#10;- 新增设置自动记账账单状态接口文档&#10;- 完善自动记账设置接口文档&#10;- 更新适配准备文档，明确生命周期及调用流程&#10;- 修正多个接口文档中的数据类型描述&#10;- 补充接口请求示例和注意事项">
+      <option name="closed" value="true" />
+      <created>1735790834573</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735790834573</updated>
+    </task>
+    <task id="LOCAL-00015" summary=":memo: (docs): 为多个文档添加 `article: false` 配置&#10;&#10;在多个文档中添加了 `article: false` 配置，以优化文档的显示效果和结构。">
+      <option name="closed" value="true" />
+      <created>1735790970128</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735790970128</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +298,9 @@
     <MESSAGE value=":memo: (docs): 新增用户指南文档并调整目录结构&#10;&#10;新增了多个用户指南文档，包括更新和备份、调试和日志、弹窗设置、卸载自动记账、AI辅助、自动资产映射、自动生成分类等。同时调整了目录结构，将“准备工作”重命名为“10.准备工作”，“进阶功能”重命名为“20.初识自动记账”，“常见问题”重命名为“40.常见问题”，并新增了“30.实验性功能”目录。" />
     <MESSAGE value=":memo: (docs): 新增全自动记账说明并更新弹窗设置文档&#10;&#10;在“弹窗设置.md”文档中新增了全自动记账的相关说明，包括新手建议和配置调整步骤。同时添加了新的图片资源以辅助说明。" />
     <MESSAGE value=":memo: (docs): 新增接口文档和常见问题解答&#10;&#10;新增了多个接口文档，包括同步账本、同步分类、同步资产等接口说明。同时完善了常见问题解答，新增了关于重复账单、分类同步等问题的解决方案。添加了相关图片资源以辅助说明。" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 新增接口文档和常见问题解答&#10;&#10;新增了多个接口文档，包括同步账本、同步分类、同步资产等接口说明。同时完善了常见问题解答，新增了关于重复账单、分类同步等问题的解决方案。添加了相关图片资源以辅助说明。" />
+    <MESSAGE value=":memo: (docs): 更新接口文档和适配指南&#10;&#10;- 新增设置自动记账账单状态接口文档&#10;- 完善自动记账设置接口文档&#10;- 更新适配准备文档，明确生命周期及调用流程&#10;- 修正多个接口文档中的数据类型描述&#10;- 补充接口请求示例和注意事项" />
+    <MESSAGE value=":memo: (docs): 为多个文档添加 `article: false` 配置&#10;&#10;在多个文档中添加了 `article: false` 配置，以优化文档的显示效果和结构。" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 为多个文档添加 `article: false` 配置&#10;&#10;在多个文档中添加了 `article: false` 配置，以优化文档的显示效果和结构。" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
