@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (docs): 为多个文档添加 `article: false` 配置&#10;&#10;在多个文档中添加了 `article: false` 配置，以优化文档的显示效果和结构。">
+    <list default="true" id="de217679-d580-4c33-a1d5-69c8cc7fb8b6" name="Changes" comment=":memo: (用户指南): 添加不建议监听微信的提示">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.用户指南/10.准备工作/03.激活自动记账.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.用户指南/10.准备工作/03.激活自动记账.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +156,9 @@
       <workItem from="1735138004001" duration="1996000" />
       <workItem from="1735264962478" duration="532000" />
       <workItem from="1735479755160" duration="20806000" />
-      <workItem from="1735563118747" duration="21303000" />
+      <workItem from="1735563118747" duration="22032000" />
+      <workItem from="1735806327735" duration="181000" />
+      <workItem from="1735872439941" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: init">
       <option name="closed" value="true" />
@@ -277,7 +280,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735790970128</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary=":memo: (docs): 更新下载链接并优化文档结构&#10;&#10;- 修正网盘下载链接，移除冗余路径&#10;- 优化 `.idea/workspace.xml` 文件中的变更记录&#10;- 清理不必要的文件变更记录，提升代码库整洁度">
+      <option name="closed" value="true" />
+      <created>1735792214008</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735792214008</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":memo: (docs): 添加适配参考链接至适配准备文档&#10;&#10;在适配准备文档中新增了钱迹同步功能的参考链接，方便开发者查阅相关实现细节。">
+      <option name="closed" value="true" />
+      <created>1735806451708</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735806451708</updated>
+    </task>
+    <task id="LOCAL-00018" summary=":memo: (用户指南): 添加不建议监听微信的提示">
+      <option name="closed" value="true" />
+      <created>1735806505385</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735806505385</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +327,10 @@
     <MESSAGE value=":memo: (docs): 新增接口文档和常见问题解答&#10;&#10;新增了多个接口文档，包括同步账本、同步分类、同步资产等接口说明。同时完善了常见问题解答，新增了关于重复账单、分类同步等问题的解决方案。添加了相关图片资源以辅助说明。" />
     <MESSAGE value=":memo: (docs): 更新接口文档和适配指南&#10;&#10;- 新增设置自动记账账单状态接口文档&#10;- 完善自动记账设置接口文档&#10;- 更新适配准备文档，明确生命周期及调用流程&#10;- 修正多个接口文档中的数据类型描述&#10;- 补充接口请求示例和注意事项" />
     <MESSAGE value=":memo: (docs): 为多个文档添加 `article: false` 配置&#10;&#10;在多个文档中添加了 `article: false` 配置，以优化文档的显示效果和结构。" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: (docs): 为多个文档添加 `article: false` 配置&#10;&#10;在多个文档中添加了 `article: false` 配置，以优化文档的显示效果和结构。" />
+    <MESSAGE value=":memo: (docs): 更新下载链接并优化文档结构&#10;&#10;- 修正网盘下载链接，移除冗余路径&#10;- 优化 `.idea/workspace.xml` 文件中的变更记录&#10;- 清理不必要的文件变更记录，提升代码库整洁度" />
+    <MESSAGE value=":memo: (docs): 添加适配参考链接至适配准备文档&#10;&#10;在适配准备文档中新增了钱迹同步功能的参考链接，方便开发者查阅相关实现细节。" />
+    <MESSAGE value=":memo: (用户指南): 添加不建议监听微信的提示" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: (用户指南): 添加不建议监听微信的提示" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>

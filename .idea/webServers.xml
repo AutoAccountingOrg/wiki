@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bbc555fb-dfb9-4d8a-b002-30407b84492b" name="ssh" url="http://ez-book.org">
+        <fileTransfer rootFolder="/www/1panel/apps/openresty/openresty/www/sites/ez-book.org/index" accessType="SFTP" host="149.104.27.145" port="22" sshConfigId="2022621e-ef3a-463e-93c9-d9bcc96b0e36" sshConfig="root@149.104.27.145:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
